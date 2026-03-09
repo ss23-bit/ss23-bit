@@ -32,6 +32,6 @@ An end-to-end, production-grade deployment pipeline showcasing a transition from
 
 ### 📈 GitHub Stats
 
-![ss23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss23&show_icons=true&theme=radical)
+![ss23's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ss23&show_icons=true&theme=radical)
 
 📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/piyapoom-aranming)
