@@ -34,4 +34,4 @@ An end-to-end, production-grade deployment pipeline showcasing a transition from
 
 ![ss23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss23&show_icons=true&theme=radical)
 
-📫 **Let's Connect:** [Find me on LinkedIn](your-linkedin-link-here)
+📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/piyapoom-aranming)
