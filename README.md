@@ -1,37 +1,39 @@
-# Hi there, I'm Piyapoom! 👋 ☁️
+# Hi there! 👋 I'm Piyapoom
 
-### Aspiring Cloud & DevOps Engineer 
+### ☁️ Cloud-Native DevOps Engineer | Systems Thinker
 
-My background in Law trained me to navigate complex regulatory frameworks, construct bulletproof logical arguments, and meticulously manage risk. Today, I apply that same rigorous, detail-oriented mindset to engineering cloud infrastructure. I specialize in building highly available, secure, and automated systems using Infrastructure as Code (IaC) and modern CI/CD practices.
+I build secure, automated, and highly available cloud infrastructure. 
 
-I am passionate about bridging the gap between development and operations, ensuring that deployments are not just fast, but compliant and resilient.
-
----
-
-### 🛠️ Core Tech Stack
-
-* **Infrastructure & Cloud:** AWS (EC2, VPC, IAM), Terraform
-* **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes (Minikube, Deployments, Services)
-* **CI/CD & Automation:** GitHub Actions, Linux (WSL/Ubuntu), Bash Scripting
-* **Development & AI Integration:** Python, Flask, Google GenAI API, Git
+My journey into Systems Engineering is built on a foundation in **Law**. Legal training is fundamentally about understanding complex rule sets, analyzing compliance, and applying logical reasoning to solve problems. I bring this exact analytical mindset to modern DevOps—whether I am designing strict AWS firewall rules, writing declarative Infrastructure as Code (Terraform), or debugging complex CI/CD pipelines.
 
 ---
 
-### 🚀 Featured Project: Enterprise Cloud DevOps Journey
+### 🚀 Featured Project: `devops-playground-2026`
 
-**[DevOps Journey 2026](https://github.com/ss23-bit/devops-journey-2026)**
-An end-to-end, production-grade deployment pipeline showcasing a transition from local development to cloud-native orchestration. 
+I recently architected an end-to-end, self-healing cloud environment to demonstrate the complete modern DevOps lifecycle. 
 
-* **The Application:** Containerized a highly available Python/Flask web service.
-* **Infrastructure as Code:** Provisioned AWS EC2 instances and strict Security Groups declaratively using Terraform.
-* **Automated CI/CD:** Engineered a GitHub Actions pipeline that enforces unit testing on every Pull Request.
-* **AI Security Integration:** Authored a custom Python tool that leverages the Gemini API to automatically review code changes in the CI pipeline for security vulnerabilities and best practices.
-* **Container Orchestration:** Authored Kubernetes manifests (Deployments, LoadBalancer/NodePort Services) to ensure multi-replica high availability and self-healing infrastructure.
+* **The Architecture:** A Python (Flask) API and Redis database deployed on AWS EC2.
+* **The Automation:** Zero-touch CI/CD pipeline using GitHub Actions to test, build, and push Docker images.
+* **The Orchestration:** Managed via Kubernetes with a Horizontal Pod Autoscaler (HPA) to dynamically handle traffic spikes.
+* **The Observability:** Live cluster telemetry monitored using Helm, Prometheus, and custom PromQL queries in Grafana.
+
+👉 **[Explore the devops-playground-2026 Repository Here](https://github.com/YOUR_GITHUB_USERNAME/devops-playground-2026)**
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ My Technology Stack
 
-![ss23's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ss23&show_icons=true&theme=radical)
+* **Cloud & IaC:** AWS (EC2, VPC Security), Terraform
+* **Containerization & Orchestration:** Docker, Kubernetes (K8s), Helm
+* **CI/CD & Automation:** GitHub Actions, Linux (Ubuntu/WSL)
+* **Observability:** Prometheus, Grafana, PromQL
+* **Programming & Scripting:** Python, Bash
 
-📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/piyapoom-aranming)
+---
+
+### 📫 Let's Connect
+
+I am currently seeking opportunities to join an enterprise engineering team to help scale, automate, and secure their production environments.
+
+* **LinkedIn:** [linkedin.com/in/YOUR_CUSTOM_LINK](https://linkedin.com/in/YOUR_CUSTOM_LINK)
+* **Email:** [Your Email Address]
