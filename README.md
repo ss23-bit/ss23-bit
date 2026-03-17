@@ -35,5 +35,5 @@ I recently architected an end-to-end, self-healing cloud environment to demonstr
 
 I am currently seeking opportunities to join an enterprise engineering team to help scale, automate, and secure their production environments.
 
-* **LinkedIn:** [linkedin.com/in/YOUR_CUSTOM_LINK](https://linkedin.com/in/YOUR_CUSTOM_LINK)
-* **Email:** [Your Email Address]
+* **LinkedIn:** [www.linkedin.com/in/piyapoom-aranming]
+* **Email:** [ss23lonewolf@gmail.com]
