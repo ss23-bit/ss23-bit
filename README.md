@@ -37,3 +37,5 @@ I am currently seeking opportunities to join an enterprise engineering team to h
 
 * **LinkedIn:** [www.linkedin.com/in/piyapoom-aranming]
 * **Email:** [ss23lonewolf@gmail.com]
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ss23-bit&show_icons=true&theme=radical)
