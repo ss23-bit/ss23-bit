@@ -8,7 +8,7 @@ My journey into Systems Engineering is built on a foundation in **Law**. Legal t
 
 ---
 
-### 🚀 Featured Project: `devops-playground-2026`
+### 🚀 Featured Project: `devops-2026`
 
 I recently architected an end-to-end, self-healing cloud environment to demonstrate the complete modern DevOps lifecycle. 
 
@@ -17,7 +17,7 @@ I recently architected an end-to-end, self-healing cloud environment to demonstr
 * **The Orchestration:** Managed via Kubernetes with a Horizontal Pod Autoscaler (HPA) to dynamically handle traffic spikes.
 * **The Observability:** Live cluster telemetry monitored using Helm, Prometheus, and custom PromQL queries in Grafana.
 
-👉 **[Explore the devops-playground-2026 Repository Here][https://github.com/ss23-bit/devops-playground-2026]**
+👉 **[Explore the devops-2026 Repository Here](https://github.com/ss23-bit/devops-2026)**
 
 ---
 
