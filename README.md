@@ -22,6 +22,8 @@ My journey into Systems Engineering is built on a foundation in **Law**. Legal t
 
 I built a FastAPI application, containerized it using Docker, and deployed it on AWS. I used Terraform to provision infrastructure and GitHub Actions to automate the CI/CD pipeline. I also improving basic monitoring and logging to help ensure system reliability.
 
+---
+
 ### 📫 Let's Connect
 
 I am currently seeking opportunities to join an enterprise engineering team to help scale, automate, and secure their production environments.
