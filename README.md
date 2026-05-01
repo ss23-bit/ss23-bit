@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Piyapoom
 
-### ☁️ Cloud-Native DevOps Engineer | Systems Thinker
+### Cloud-Native DevOps Engineer | Systems Thinker
 
 I build secure, automated, and highly available cloud infrastructure. 
 
@@ -8,7 +8,7 @@ My journey into Systems Engineering is built on a foundation in **Law**. Legal t
 
 ---
 
-### 🛠️ My Technology Stack
+### My Technology Stack
 
 * **Cloud & IaC:** AWS (EC2, VPC Security), Terraform
 * **Containerization & Orchestration:** Docker, Kubernetes (K8s), Helm
@@ -17,6 +17,10 @@ My journey into Systems Engineering is built on a foundation in **Law**. Legal t
 * **Programming & Scripting:** Python, Bash
 
 ---
+
+### Explore my Letest Project [https://github.com/ss23-bit/devops-project]
+
+I built a FastAPI application, containerized it using Docker, and deployed it on AWS. I used Terraform to provision infrastructure and GitHub Actions to automate the CI/CD pipeline. I also improving basic monitoring and logging to help ensure system reliability.
 
 ### 📫 Let's Connect
 
