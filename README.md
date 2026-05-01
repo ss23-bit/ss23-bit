@@ -8,25 +8,12 @@ My journey into Systems Engineering is built on a foundation in **Law**. Legal t
 
 ---
 
-### 🚀 Featured Project: `devops-2026`
-
-I recently architected an end-to-end, self-healing cloud environment to demonstrate the complete modern DevOps lifecycle. 
-
-* **The Architecture:** A Python (Flask) API and Redis database deployed on AWS EC2.
-* **The Automation:** Zero-touch CI/CD pipeline using GitHub Actions to test, build, and push Docker images.
-* **The Orchestration:** Managed via Kubernetes with a Horizontal Pod Autoscaler (HPA) to dynamically handle traffic spikes.
-* **The Observability:** Live cluster telemetry monitored using Helm, Prometheus, and custom PromQL queries in Grafana.
-
-👉 **[Explore the devops-2026 Repository Here](https://github.com/ss23-bit/devops-2026)**
-
----
-
 ### 🛠️ My Technology Stack
 
 * **Cloud & IaC:** AWS (EC2, VPC Security), Terraform
 * **Containerization & Orchestration:** Docker, Kubernetes (K8s), Helm
 * **CI/CD & Automation:** GitHub Actions, Linux (Ubuntu/WSL)
-* **Observability:** Prometheus, Grafana, PromQL
+* **Observability:** Prometheus, Grafana
 * **Programming & Scripting:** Python, Bash
 
 ---
