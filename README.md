@@ -1,34 +1,93 @@
-# Hi there! 👋 I'm Piyapoom
+# Hi, I'm [Piyapoom Aranming]
 
-### Cloud-Native DevOps Engineer | Systems Thinker
+Backend engineering in tranning focused on Python, FastAPI, SQL, and API security fundamentals.
 
-I build secure, automated, and highly available cloud infrastructure. 
+Currently learning how to build real backend systems with:
 
-My journey into Systems Engineering is built on a foundation in **Law**. Legal training is fundamentally about understanding complex rule sets, analyzing compliance, and applying logical reasoning to solve problems. I bring this exact analytical mindset to modern DevOps—whether I am designing strict AWS firewall rules, writing declarative Infrastructure as Code (Terraform), or debugging complex CI/CD pipelines.
-
----
-
-### My Technology Stack
-
-* **Cloud & IaC:** AWS (EC2, VPC Security), Terraform
-* **Containerization & Orchestration:** Docker, Kubernetes (K8s), Helm
-* **CI/CD & Automation:** GitHub Actions, Linux (Ubuntu/WSL)
-* **Observability:** Prometheus, Grafana
-* **Programming & Scripting:** Python, Bash
+* REST APIs
+* Authentication & JWT
+* Database-backed applications
+* Secure backend architecture
+* Docker & Linux fundamentals
+* Basic CI/CD
+* Provisioning AWS infrastructure using Terraform
 
 ---
 
-### Explore my Letest Project [https://github.com/ss23-bit/devops-project]
+## Tech Stack
 
-I built a FastAPI application, containerized it using Docker, and deployed it on AWS. I used Terraform to provision infrastructure and GitHub Actions to automate the CI/CD pipeline. I also improving basic monitoring and logging to help ensure system reliability.
+### Backend
+
+* Python
+* FastAPI
+* REST APIs
+* JWT Authentication
+* bcrypt Password Hashing
+
+### Database
+
+* SQLite
+* SQL
+
+### Tools & Infrastructure
+
+* Git & GitHub
+* Linux
+* Docker
+* Networking fundamentals
+* Terraform
+* AWS
 
 ---
 
-### 📫 Let's Connect
+## What I'm Currently Learning
 
-I am currently seeking opportunities to join an enterprise engineering team to help scale, automate, and secure their production environments.
+* Backend architecture
+* Authentication & authorization
+* Database relationships
+* Docker & containerization
+* API security fundamentals
+* Secure backend engineering practices
 
-* **LinkedIn:** [www.linkedin.com/in/piyapoom-aranming]
-* **Email:** [ss23lonewolf@gmail.com]
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss23-bit&layout=compact&theme=vision-friendly-dark)
+## Current Projects
+[(https://github.com/ss23-bit/backend-lab)]
+
+### Backend Todo API
+
+A backend API built with FastAPI featuring:
+
+* CRUD operations
+* JWT authentication
+* Protected routes
+* SQLite integration
+* User-based authorization
+* Modular router structure
+
+### Authentication System
+
+Implemented:
+
+* User registration/login
+* Password hashing with bcrypt
+* JWT access tokens
+* Protected API endpoints
+
+---
+
+## Goals
+
+I'm currently focused on becoming a strong backend engineer with long-term interest in:
+
+* Security engineering
+* Infrastructure
+* AI-native security systems
+* Backend architecture
+
+---
+
+## Contact
+
+* LinkedIn: [www.linkedin.com/in/piyapoom-aranming]
+
