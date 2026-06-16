@@ -1,6 +1,8 @@
 # Hi, I'm [Piyapoom Aranming]
 
-Backend engineering in tranning focused on Python, FastAPI, SQL, and API security fundamentals.
+I'm changing my strategy. It seems the market (or AI) isn't really looking for someone like me.
+So I'm going my own way. I'll start building, clashing, and refining until I can create something that truly belongs to me.
+
 
 Currently learning how to build real backend systems with:
 
